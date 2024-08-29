@@ -1,4 +1,4 @@
-package com.joongnior.pri_user_service;
+package com.joongnior.pri.user;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

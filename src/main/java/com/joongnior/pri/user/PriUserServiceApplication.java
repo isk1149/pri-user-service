@@ -1,4 +1,4 @@
-package com.joongnior.pri_user_service;
+package com.joongnior.pri.user;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
